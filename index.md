@@ -8,8 +8,7 @@
 layout: home
 ---
 
-## Wenn die Schrift zu klein, die Augen zu groß und die Brille zu schwach werden.
-___
+Wenn die Schrift zu klein und die Brille zu schwach werden.
 
 Es gibt verschiedene Möglichkeiten, ein Betriebssystem für bessere Lesbarkeit anzupassen. 
 
@@ -21,4 +20,6 @@ Es gibt verschiedene Möglichkeiten, ein Betriebssystem für bessere Lesbarkeit 
 Zusätzlich lässt sich die IDE Visual Studio Code besonders gut anpassen, kommt sehr gut mit unterschiedlichen Skalierungen des Betriebssystems zurecht und verfügt über zahlreiche Color-Themes, die Kontrast und Lesbarkeit verbessern. Farbstarke Icon-Themes erleichtern das Auffinden von Dateien im Explorer.
 Unter Windows und MacOs unterstützt Visual Studio Code die Verwendung von Sreenreadern bzw. VoiceOver.
 
-___
+
+
+
