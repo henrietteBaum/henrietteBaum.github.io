@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MacOs: Java mit Visual Studio Code einrichten
+title: Unter MacOs Java mit Visual Studio Code einrichten
 categories: vscode
 ---
 
