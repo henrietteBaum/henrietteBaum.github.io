@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Ubuntu 20.04 mit Gnome- Desktop skalieren
 ---
 
 
