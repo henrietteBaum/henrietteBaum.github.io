@@ -4,7 +4,6 @@ title: Ubuntu 20.04 mit Gnome Desktop skalieren
 categories: operating-system
 ---
 
-# Ubuntu 20.04 mit Gnome- Desktop skalieren
 
 Um Ubuntu (Version 20.04) an die eigenen Bedürfnisse und für eine bessere Lesbarkeit anzupassen, gibt es die folgenden Möglichkeiten, die hier vorgestellt werden sollen:
 
