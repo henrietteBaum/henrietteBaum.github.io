@@ -1,8 +1,6 @@
 # henrietteBaum.github.io
 
 
-___
-
 Es gibt verschiedene Möglichkeiten, ein Betriebssystem für bessere Lesbarkeit anzupassen. 
 
 - Fedora
