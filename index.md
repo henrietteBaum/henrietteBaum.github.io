@@ -7,8 +7,15 @@
 #
 layout: home
 ---
+**!!! just under construction !!!**
 
-Wenn die Schrift zu klein und die Brille zu schwach werden.
+___
+
+
+>
+>Wenn die Schrift zu klein und die Brille zu schwach werden.
+>
+
 
 Es gibt verschiedene Möglichkeiten, ein Betriebssystem für bessere Lesbarkeit anzupassen. 
 
