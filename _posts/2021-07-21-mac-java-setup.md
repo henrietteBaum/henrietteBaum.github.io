@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MacOs Java mit Visual Studio Code einrichten
-
+title: MacOs: Java mit Visual Studio Code einrichten
+categories: vscode
 ---
 
 ### Java-Extension Pack installieren
