@@ -1,7 +1,7 @@
 # henrietteBaum.github.io
 
-
-## Wenn die Schrift zu klein, die Augen zu groß und die Brille zu schwach werden.
+___
+Wenn die Schrift zu klein, die Augen zu groß und die Brille zu schwach werden.
 ___
 
 Es gibt verschiedene Möglichkeiten, ein Betriebssystem für bessere Lesbarkeit anzupassen. 
