@@ -5,3 +5,13 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+
+  .site-title::before {
+    content: url("/assets/images/zoom-in-monitor_150.jpg");
+    display: inline-block;
+    position: relative;
+    width: 0.5pc;
+    height: 0.5pc;
+    top: 10px;
+  }
