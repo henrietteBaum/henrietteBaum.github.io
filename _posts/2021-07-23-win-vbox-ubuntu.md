@@ -1,12 +1,12 @@
 ---
 layout: post
+title: VirtualBox unter Windows
 author: Henriette Baum
 categories: VM
 ---
 
-# VirtualBox unter Windows
 
-Um ein neues Betriebssystem auszuprobieren oder bei den ersten Versuchen mit einer neu zu lernenden für eine Programmiersprache und Einrichtung der entsprechenden Entwicklungsumgebung eignet sich die Verwendung einer Virtuellen Maschine (VM) mit Oracle VirtualBox besonders gut. 
+Um ein neues Betriebssystem auszuprobieren oder bei den ersten Versuchen mit einer neu zu lernenden Programmiersprache und Einrichtung der entsprechenden Entwicklungsumgebung eignet sich die Verwendung einer Virtuellen Maschine (VM) mit Oracle VirtualBox besonders gut. 
 
 Ein Installer steht auf der Oracle- Seite für zahlreiche Betriebssysteme zum Download zur Verfügung.
 
@@ -26,7 +26,7 @@ Das erhöht die Übersichtlichkeit, ansonsten wird alles in Laufwerk C gespeiche
 
 ## Eine VM einrichten
 
-Nach der Installation VirtualBox öffnen und über die Schaltfläche Neu oder das Menü Maschine - Neu eine leere VM einrichten.
+Nach der Installation VirtualBox öffnen und über die Schaltfläche `Neu` oder das Menü `Maschine - Neu` eine leere VM einrichten.
 
 ![VirtualBox-neue-VM](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_02.png)
 
@@ -38,54 +38,55 @@ Gibt man statt im Beispiel oben Windows an, wird als Typ Windows 7 angeboten, ü
 
 ![VirtualBox-neue-VM](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_04.png)
 
-Hinweis: Hier wird noch kein Betriebssystem installiert, es handelt sich immer noch um eine leere VM
+**Hinweis**: Hier wird noch kein Betriebssystem installiert, es handelt sich immer noch um eine leere VM
 
-Über die Schaltfläche weiter gelangt man zur Auswahl der Größe des Arbeitsspeichers für die neue VM.
+Über die Schaltfläche `Weiter` gelangt man zur Auswahl der Größe des Arbeitsspeichers für die neue VM.
 
-![VirtualBox-neue-VM Bild(V
+![VirtualBox-neue-VM Bild](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_05.png)
+
 Dazu sollte der Rechner wenigstens 8 GB Arbeitsspeicher haben, so dass für die VM 4 GB zur Verfügung gestellt werden können.
 
 Die folgenden Schritte kann man so bestätigen, wie angeboten.
 
-![VirtualBox-neue-VM](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_05.png)
+![VirtualBox-neue-VM](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_06.png)
 
 Die Größe der Festplatte lässt sich vor der eigentlichen Installation noch erhöhen, die angebotenen 10  GB sind in der Regel zu knapp.
 
 Über Erzeugen gelangt man zur Auswahl des Datentyps für die Festplatte, diesen bei VDI belassen.
 
-![VirtualBox-neue-VM-Datentyp-wählen Bild](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_06.png)
+![VirtualBox-neue-VM-Datentyp-wählen Bild](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_07.png)
 
 Im nächsten Fenster dynamisch alloziert beibehalten.
 
-![VirtualBox-neue-VM Bild](../assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_07.png)
+![VirtualBox-neue-VM Bild](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_08.png)
 Im nächsten Schritt können Ordnername und Maximalgröße der  VM- Festplatte verändert werden. Bis zu dieser Maximalgröße dürfen sich später die Daten der VM ausbreiten. Die VM nimmt immer nur den Speicherplatz ein, der ihrer aktuellen Datenmenge entspricht, das kann also auch deutlich unter der Maximalgröße liegen. Um spätere Probleme zu vermeiden, sollte man die Maximalgröße lieber großzügig bemessen.
 
 Mit Erzeugen wird die VM fertiggestellt und eine Übersicht angezeigt. Die VM ist aktuell noch ausgeschaltet. Mit Starten gelangt man zur Installation des Betriebssystems.
 
-![VirtualBox-neue-VM Bild(V
-Im Folgenden erscheint ein Auswählfenster für das ISO-Image. Hier wird das zuletzt verwendete Image angezeigt, über das Pull-Down Menü erhält man auch nur die bereits verwendeten ISO-Dateien. Erst der Klick auf das Ordnersymbol öffnet ein neues Fenster, wo man wiederum über Hinzufügen den Zugriff auf weitere ISO-Images irgendwo auf der Festplatte, dem USB-Stick oder DVD erhält 
-
-![VirtualBox-neue-VM Bild](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_08.png)
-
-Im Windows-Explorer, die gewünschte Iso-Datei auswählen und mit Öffnen bestätigen. Anschließend erscheint die Datei im Auswahlfenster.
-
 ![VirtualBox-neue-VM Bild](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_09.png)
-
-Mit Auswählen bestätigen, dann gelangt man wieder in das anfangs erschienene Fenster und kann dort die Installation mit dem ausgewählten ISO starten.
+Im Folgenden erscheint ein Auswählfenster für das ISO-Image. Hier wird das zuletzt verwendete Image angezeigt, über das Pull-Down Menü erhält man auch nur die bereits verwendeten ISO-Dateien. Erst der Klick auf das Ordnersymbol öffnet ein neues Fenster, wo man wiederum über Hinzufügen den Zugriff auf weitere ISO-Images irgendwo auf der Festplatte, dem USB-Stick oder DVD erhält 
 
 ![VirtualBox-neue-VM Bild](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_10.png)
 
-Der Boot-Manager von Ubuntu erscheint, mit Enter wird gestartet.
+Im Windows-Explorer, die gewünschte Iso-Datei auswählen und mit Öffnen bestätigen. Anschließend erscheint die Datei im Auswahlfenster.
 
 ![VirtualBox-neue-VM Bild](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_11.png)
 
-Man kann nun Ubuntu als Live-Version testen oder in die neue VM installieren.
+Mit Auswählen bestätigen, dann gelangt man wieder in das anfangs erschienene Fenster und kann dort die Installation mit dem ausgewählten ISO starten.
 
 ![VirtualBox-neue-VM Bild](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_12.png)
 
+Der Boot-Manager von Ubuntu erscheint, mit Enter wird gestartet.
+
+![VirtualBox-neue-VM Bild](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_13.png)
+
+Man kann nun Ubuntu als Live-Version testen oder in die neue VM installieren.
+
+![VirtualBox-neue-VM Bild](/assets/images/VirtualBox-unter-Windows-images/virtualbox-win-ubuntu_14.png)
+
 Ubuntu installieren führt zur regulären Installationsroutine des Betriebssystems. 
 
-Hinweis: nach dem Abschluss der Installation kann man die Aufforderung, das Installationsmedium zu entfernen (... press Enter) einfach mit der Eingabetaste bestätigen, ohne ein Medium entfernen zu müssen.
+**Hinweis**: nach dem Abschluss der Installation kann man die Aufforderung, das Installationsmedium zu entfernen (... press Enter) einfach mit der Eingabetaste bestätigen, ohne ein Medium entfernen zu müssen.
 
 ## Gasterweiterungen
 
