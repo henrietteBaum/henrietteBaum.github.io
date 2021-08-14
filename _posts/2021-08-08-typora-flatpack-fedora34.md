@@ -8,7 +8,7 @@ Typora ist ein sehr vielseitiger und an die persönlichen Bedürfnisse anpassbar
 
 ![Typora-on-Flathub-image](/assets/images/Typora-Flatpack-Fedora34-images/typora-flatpack-fedora34_0.png)
 
-Dazu muss zunächst Flathub als Softwarequelle unter Fedora eingerichtet werden. Eine Anleitung hierzu findbet man hier:
+Dazu muss zunächst Flathub als Softwarequelle unter Fedora eingerichtet werden. Eine Anleitung hierzu findet man hier:
 
 [https://flatpak.org/setup/Fedora/](https://flatpak.org/setup/Fedora/)
 
@@ -24,7 +24,7 @@ Nach dem erneuten Starten der Fedora- Softwareverwaltung werden die Metadaten vo
 
 Hinweis die Übersicht über die vorhandenen Softwarequellen erreicht man über das Hamburger- Menü oben rechts.
 
-Anshließend kann man all auf FlatHub angebotenen Pakete über die Softwareverwaltung von Fedora installieren:
+Anschließend kann man alle auf FlatHub angebotenen Pakete über die Softwareverwaltung von Fedora installieren:
 
 ![Typora-flatpack-installieren-image](/assets/images/Typora-Flatpack-Fedora34-images/typora-flatpack-fedora34_4.png)
 
@@ -40,7 +40,7 @@ Nach Download und Entpacken die css- Datei und den Ordner "nord" in die Zwischen
 
 ![Typora-Files-for-Theme-Nord-image](/assets/images/Typora-Flatpack-Fedora34-images/typora-flatpack-fedora34_6.png)
 
-Anschließend kann man in der Einstellungsverwaltung von Typora über den Menüpunkt "Aussehen" den Themenordner öffnen und dort dann css- Datei und Ordner "nord" aus der Zwischenablage wieder einfügen.
+Nun kann man in der Einstellungsverwaltung von Typora über den Menüpunkt "Aussehen" den Themenordner öffnen und dort dann css- Datei und Ordner "nord" aus der Zwischenablage wieder einfügen.
 
 ![Typora-Settings-open-themefolder-image](/assets/images/Typora-Flatpack-Fedora34-images/typora-flatpack-fedora34_7.png)
 
@@ -50,4 +50,4 @@ Nach dem Neustart von Typora steht das neue Thema unter dem Menüpunkt Themes zu
 
 ## Markdown
 
-Nicht nur für Menschen mit Augenproblemen ist das Schreiben von Texten mit Hilfe von Markdown- Syntax eine sehr komfortable Vorgehensweise. Die Syntaxregeln für einen normalen Text sind schnell erlernt, unter dem Menüpunkt "Hilfe"  finden man eine Referenz. Markdown erspart die Suche nach Schaltflächen oder im Menüband. Man kann einfach mit dem Curser im Text bleiben und eben nur Schreiben. Auch ist der dunkle Hintergrund im Editor meist angenehmer für die Augen als die wieße Seite in einem Textverarbeitungsprogramm.
+Nicht nur für Menschen mit Augenproblemen ist das Schreiben von Texten mit Hilfe von Markdown- Syntax eine sehr komfortable Vorgehensweise. Die Syntaxregeln für einen normalen Text sind schnell erlernt, unter dem Menüpunkt "Hilfe"  findet man eine Referenz. Markdown erspart die Suche nach Schaltflächen oder im Menüband. Man kann einfach mit dem Curser im Text bleiben und eben nur Schreiben. Auch ist der dunkle Hintergrund im Editor meist angenehmer für die Augen als die weiße Seite in einem Textverarbeitungsprogramm.
