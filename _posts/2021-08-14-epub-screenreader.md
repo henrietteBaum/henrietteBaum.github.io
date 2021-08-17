@@ -10,13 +10,13 @@ Zum Lesen von E-Books im epub- Format gibt es zahlreiche, oftmals optisch sehr a
 
 Eine Ausnahme bilden die Browser- Erweiterung EPUBReader und das eigenständige Programm Thorium.
 
-Die Browser- Erweiterung steht für Google-Chrome, Mozilla-Firefox und Microsoft-Edge zur Verfügung,
+Die Browser- Erweiterung steht für Google-Chrome, Mozilla-Firefox und Microsoft-Edge zur Verfügung.
 
 ![install-browser-extension-image](/assets/images/Epub-Screenreader-images/epub-screenreader_18.png)
 
-Unter Windows kann man mit der Erweiterung in allen drei Browsern zumindest den Text des E-Books mit Screenreader JAWS vorlesen lassen. Auf Linux (getestet mit Fedora 34 und Ubuntu 21.04) funktioniert das Vorlesen mit Orca nur unter Firefox, nicht mit Google- Chrome und auch nicht mit Chromium.
+Unter Windows kann man mit der Erweiterung in allen drei Browsern zumindest den Text des E-Books mit Screenreader JAWS vorlesen lassen. Auf Linux-Systemen (getestet mit Fedora 34 und Ubuntu 21.04) funktioniert das Vorlesen mit Orca nur unter Firefox, nicht mit Google-Chrome und auch nicht mit Chromium.
 
-EPUBReader bietet einige Einstellungsmöglichkeiten für Hintergrundfarbe, Font und Schriftgröße, Seitenlayout und vieles mehr. Die grafischen Schaltflächen im Browserfenster sind aber mit dem Screenreader nicht navigierbar. Dafür stehen aber Shortcuts zur Verfügung.
+EPUBReader bietet einige Einstellungsmöglichkeiten für Hintergrundfarbe, Font und Schriftgröße, Seitenlayout und vieles mehr. Die grafischen Schaltflächen im Browserfenster sind aber mit dem Screenreader nicht navigierbar. Dafür stehen jedoch zum Teil Shortcuts zur Verfügung.
 
 Beim Download eines neuen E-Books wird dieses unmittelbar in der Erweiterung geöffnet und lässt sich dann von dort speichern. Ansonsten wird nach dem Öffnen der Erweiterung im Browser die Schaltfläche zur Auswahl eines bereits auf dem Computer vorhandenen E-Books angezeigt.
 
@@ -24,11 +24,11 @@ Beim Download eines neuen E-Books wird dieses unmittelbar in der Erweiterung ge�
 
 Die Schaltfläche zum Öffnen eines E-Books lässt sich mit dem Screenreader JAWS leider nicht mit `Tab` ansteuern und wird auch nicht angesagt, wenn man die Schnellnavigationstasten nutzt (`Umschalt` + `B` für Schalter oder `G` für Grafik, auch alle weiteren funktionieren nicht).
 
-Hat man ein Buch geöffnet, führt ein Klick in die Seitenmitte oder das Berühren des unteren Fensterrahmens mit der Maus zur Anzeige weiterer Schaltflächen für Hilfe, Einstellungen, Inhaltsverzeichnis, Inhaltsverzeichnis, Lesezeichen setzen, Schriftgröße und Lesestil:
+Hat man ein Buch geöffnet, führt ein Klick in die Seitenmitte oder das Berühren des unteren Fensterrahmens mit der Maus zur Anzeige weiterer Schaltflächen für Hilfe, Einstellungen, Inhaltsverzeichnis, Lesezeichen setzen, Schriftgröße und Lesestil:
 
 ![image-GUI-buttons-for-navigation-and-settings](/assets/images/Epub-Screenreader-images/epub-screenreader_2.png)
 
-Auch diese Schaltflächen werden vom Screenreader nicht angesagt. Aber es gibt einige Shortcuts.
+Auch diese Schaltflächen werden vom Screenreader nicht angesagt. Aber es gibt hier einige Shortcuts.
 
 - Inhaltsverzeichnis öffnen: T
 - Lesezeichen setzen: D
@@ -62,7 +62,7 @@ Oder von der Herstellerseite:
 
 [Thorium Reader – EDRLab](https://www.edrlab.org/software/thorium-reader/)
 
-Thorium ist nicht nur ein E-Book Reader, das Programm bietet zusätzlich ein Bibliothek, in der man seine Bücher verwalten kann.
+Thorium ist nicht nur ein E-Book Reader, das Programm bietet zusätzlich eine Bibliothek, in der man seine Bücher verwalten kann.
 
 Die Programmoberfläche ist übersichtlichmit gut lesbarer Schrift gestaltet und die Bedienung intuitiv. Alle Schaltflächen sind vorbildlich mit aussagekräftigem Text für den Screenreader beschriftet und lassen sich gut mit der `Tab` - Taste nacheinander ansteuern.
 
@@ -127,13 +127,13 @@ Beim ersten Aufruf des Programms erhält man zunächst eine englisch-sprachige O
 
 ![image-thorium-GUI-on-ubuntu](/assets/images/Epub-Screenreader-images/epub-screenreader_17.png)
 
-Unter dem Menüpunkt Einstellungen kann man eine Liste mit Shortcuts anzeigen lassen. 
+Ebenso unter dem Menüpunkt Einstellungen kann man eine Liste mit Shortcuts anzeigen lassen. 
 
 Orca kann die Steuerelemente der Benutzeroberfläche ansagen und auch den Text im Buch lesen. Der Textbereich lässt sich dabei nicht weiterscrollen, d.h. der Screenreader liest nach dem unteren Bildschirmrand weiter. Abhilfe schafft die Umstellung im Menüpunkt "Lesestil" auf "Fortlaufend". 
 
 Auch die Navigation mit Orca über die Pfeiltasten im Text selbst bleibt in der Grundeinstellung immer mal hängen, funktioniert aber nach der Umstellung auf "Fortlaufend" besser.
 
-Die eingebaute Sprachausgebe funktioniert noch nicht.
+Die eingebaute Sprachausgabe funktioniert noch nicht.
 
 ## Fazit
 
