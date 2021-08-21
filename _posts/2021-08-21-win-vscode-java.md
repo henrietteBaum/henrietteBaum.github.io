@@ -4,7 +4,6 @@ title: "Einstieg in Java mit Visual Studio Code unter Windows"
 author: Henriette Baum
 ---
 
-# Einstieg in Java mit Visual Studio Code unter Windows 
 
 Voraussetzung um Java- Programme kompilieren und ausführen zu können:
 
