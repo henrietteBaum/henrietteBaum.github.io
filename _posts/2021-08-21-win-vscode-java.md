@@ -27,7 +27,7 @@ Ist noch keine JDK- Version auf dem Computer vorhanden, wird beim Versuch, ein n
 
 ![image-java-warning](/assets/images/java-vscode-win/image-20210819003143243.png)
 
-Ein Click auf den Button "Get the Java Development Kit" führt zur Downloadseite von Red Hat ([OpenJDK Download | Red Hat Developer](https://developers.redhat.com/products/openjdk/download?sc_cid=701f2000000RWTnAAO))
+Ein Click auf den Button "Get the Java Development Kit" führt zur Downloadseite von Red Hat.
 
 ![image-downloadpage-RedHat](/assets/images/java-vscode-win/image-20210819004026817.png)
 
