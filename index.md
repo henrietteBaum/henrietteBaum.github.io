@@ -23,9 +23,14 @@ Es gibt verschiedene Möglichkeiten, eine Benutzeroberfläche für bessere Lesba
     - Ubuntu
     - Windows
 
-Zusätzlich lassen sich auch viele Anwendungen selbst zumindest teilweise in ihrem Erscheinungsbild verändern.  Besonders gut lässt sich die IDE **Visual Studio Code** anpassen. Sie kommt sehr gut mit unterschiedlichen Skalierungen des Betriebssystems zurecht und verfügt über zahlreiche Color-Themes, die Kontrast und Lesbarkeit verbessern. Farbstarke Icon-Themes erleichtern das Auffinden von Dateien im Explorer.
+Zusätzlich lassen sich auch viele Anwendungen selbst zumindest teilweise in ihrem Erscheinungsbild verändern.  
+
+Besonders gut lässt sich die IDE **Visual Studio Code** anpassen. Sie kommt sehr gut mit unterschiedlichen Skalierungen des Betriebssystems zurecht und verfügt über zahlreiche Color-Themes, die Kontrast und Lesbarkeit verbessern. Farbstarke Icon-Themes erleichtern das Auffinden von Dateien im Explorer.
 Unter Windows und MacOs unterstützt Visual Studio Code die Verwendung von Screenreadern bzw. VoiceOver.
 Eine aktive Community arbeitet ständig an Verbesserungen.
+
+Vorgestellt werden auch andere Programme, die das Arbeiten am Computer erleichtern.
+
 
 
 ___
