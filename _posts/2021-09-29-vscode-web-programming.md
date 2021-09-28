@@ -69,7 +69,7 @@ Für eine CSS-Datei z.B.:
 Und eine JavaScript- Datei:
 
 ```html
-<script src="scripts/main.js"></scripts>
+<script src="scripts/main.js"></script>
 ```
 
 Die Vorschau des HTML-Dokuments öffnet man mit der Schaltfläche oben rechts über dem Editorfenster oder per Tastenkombination.
