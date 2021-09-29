@@ -71,6 +71,10 @@ Und eine JavaScript- Datei:
 ```html
 <script src="scripts/main.js"></script>
 ```
+Alternativ zur oben gezeigten konventionellen Ordnerstruktur für Webseiten kann man für kleinere Übungsbeispiele oder Aufgaben jeweils einen eigenen Ordner anlegen, indem dann einfach HTML- Dokument, CSS- und JavaScript- Datei abgelegt werden.
+
+![image-vscode-exercise-folder](/assets/images/vscode-web-programming-images/vscode-web-prog_16.png)
+## Vorschau
 
 Die Vorschau des HTML-Dokuments öffnet man mit der Schaltfläche oben rechts über dem Editorfenster oder per Tastenkombination.
 
