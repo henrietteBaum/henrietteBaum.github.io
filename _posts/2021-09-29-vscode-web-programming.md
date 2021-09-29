@@ -129,3 +129,5 @@ Die oben beschriebene Vorgehensweise benötigt etwas Einarbeitung in die Entwick
 Ein Programm im Editor zu schreiben, nimmt dem Menschen viel Arbeit ab und hilft, Eingabefehler zu vermeiden.
 
 Zudem kann man Visual Studio Code für alle gängigen Programmiersprachen und Markupsprachen verwenden. Wer die grundlegenden Funktionen einmal kennt, kommt dort schnell auch mit anderen sprachspezifischen Funktionen zurecht.
+
+Hinweis: Wer möchte, kann für eine erste Orientierung in VSCode das deutsche Sprachpaket installieren, die gesamte Benutzeroberfläche erscheint dann in deutscher Sprache. Diese Option bietet das Programm sogar in einem Popup-Fenster unten rechts nach jedem Programstart an.
