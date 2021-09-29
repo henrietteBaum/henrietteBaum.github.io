@@ -54,7 +54,7 @@ Das vollständige (minimalistische) HTML- Dokument:
 
 Dieses Grundgerüst lässt sich schnell in eine neue HTML-Datei, mit neuem Namen kopieren, um damit ein neues Projekt auszuprobieren.
 
-Zudem benötigt dann natürlich die entsprechende CSS-Datei bzw. JavaScript-Datei. Beide Datei-Formate werden jeweils in separaten Ordnern  (**styles** und **scripts**) abgelegt. Die Ordner kann man direkt in VSCode erstellen, u.a. über die Symbole im Explorerbereich der Seitenleiste:
+Zudem benötigt man dann natürlich noch die entsprechende CSS-Datei bzw. JavaScript-Datei. Beide Datei-Formate werden jeweils in separaten Ordnern  (**styles** und **scripts**) abgelegt. Die Ordner kann man direkt in VSCode erstellen, u.a. über die Symbole im Explorerbereich der Seitenleiste:
 
 ![image-vscode-create-folder](/assets/images/vscode-web-programming-images/vscode-web-prog_06.png)
 
