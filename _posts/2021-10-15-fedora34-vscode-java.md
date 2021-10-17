@@ -15,7 +15,7 @@ Unter Fedora kann man Visual Studio Code nicht einfach über die Softwareverwalt
 
 Auf der Herstellerseite erhält man jedoch ein Skript, mit dem das rpm- Paket über die Kommandozeile installiert und auch die Softwarequelle hinzugefügt wird: 
 
-https://code.visualstudio.com/docs/setup/linux
+[Visual Studio Code](https://code.visualstudio.com/docs/setup/linux)
 
 Um Java-Programme mit VSCode  zu erstellen, installiert man zunächst das Erweiterungspaket "Extension Pack for Java", das alle nötigen Werkzeuge mitbringt:
 
@@ -94,11 +94,11 @@ Das Ergebnis wird in der integrierten Konsole angezeigt:
 
 Ein detaillierte Anleitung zum Einrichten von Java findet sich unter:
 
-https://computingforgeeks.com/how-to-set-java_home-on-centos-fedora-rhel/
+[Computing for Geeks](https://computingforgeeks.com/how-to-set-java_home-on-centos-fedora-rhel/)
 
 JDK Versionen:
 
-https://fedoraproject.org/wiki/JDK_on_Fedora#OpenJDK_and_project_IcedTea
+[Fedora Wiki](https://fedoraproject.org/wiki/JDK_on_Fedora#OpenJDK_and_project_IcedTea)
 
 
 
