@@ -7,17 +7,17 @@ Wenn die Schrift des Editors und des Terminals zu klein sind, Menü und Seitenle
 
 Visual Studio Code lässt sich vielfältig an die Bedürfnisse des Benutzers anpassen. Auch kommt die IDE mit allen Auflösungs- oder Skalierungs- Einstellungen des Systems gut zurecht.  Bei Eclipse oder NetBeans,  kann es vorkommen, das Schaltflächen nicht zu sehen oder gar nicht erreichbar sind, wenn man für sein Betriebssystem einen höheren Skalierungsfaktor  oder / und größere Schriftarten gewählt hat.
 
-Unter Windows und MacOS funktioniert auch die Unterstützung durch einen **Screenreader** schon gnaz gut.
+Unter Windows und MacOS funktioniert auch die Unterstützung durch einen **Screenreader** schon ganz gut.
 
 ## Programmoberfläche
 
-Die gesamte Oberfläche der IDE zommen funktioniert schnell mit der Tastenkombination Strg + + bzw Cmd + +
+Die gesamte Oberfläche der IDE zoomen funktioniert schnell mit der Tastenkombination Strg + + bzw Cmd + +
 
 ![Video: IDE Oberfläche zoomen](/assets/images/VSCode-scale-img/vscode-scale_1.mp4)
 
 ## Editorbereich
 
-Um den Text im Editor allein vergrößern zu können, muss zunächst in den Einstellungen die Option Mouse-Whel-Zoom aktiviert werden. Bei gedrückter Strg- Taste kann dann mit dem Mausrad oder dem Touchpad vergrößert oder verkleinert werden. Die nützliche Funktion ist standardmäßig deaktiviert
+Um den Text im Editor allein vergrößern zu können, muss zunächst in den Einstellungen die Option Mouse-Wheel-Zoom aktiviert werden. Bei gedrückter Strg- Taste kann dann mit dem Mausrad oder dem Touchpad vergrößert oder verkleinert werden. Die nützliche Funktion ist standardmäßig deaktiviert
 
 Unter dem Menüpunkt Settings (über das Zahnradsymbol unten links zu erreichen) findet man mit der Eingabe von zoom im Suchfeld schnell die entsprechenden Einstellungen. 
 
@@ -30,7 +30,7 @@ So lässt sich ohne Aufwand schnell etwas vergrößern und wieder verkleinern:
 
 ## Terminal
 
-Mit dem Mouse-Wheel-Zomm lässt sich leider die Schrift im Terminal nicht vergrößern. Aber in den Einstellungen kann man die Schrift dauerhaft umstellen. Der Einstellungspunkt ist gut zu finden mit dem Suchbegriff "terminal font size".
+Mit dem Mouse-Wheel-Zoom lässt sich leider die Schrift im Terminal nicht vergrößern. Aber in den Einstellungen kann man die Schrift dauerhaft umstellen. Der Einstellungspunkt ist gut zu finden mit dem Suchbegriff "terminal font size".
 
 ![image: VS Code settings for terminal-font-size](/assets/images/VSCode-scale-img/vscode-scale_1.png)
 
