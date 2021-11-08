@@ -35,7 +35,7 @@ java --version
 javac --version
 ```
 
-![image-ubuntu-terminal-control-java-version](../assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107123948012.png)
+![image-ubuntu-terminal-control-java-version](/assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107123948012.png)
 
 
 
@@ -48,11 +48,11 @@ export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 export PATH=${PATH}:${JAVA_HOME}/bin
 ```
 
-![image-ubuntu-bashrc-java-home-and-path](../assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107131733079.png)
+![image-ubuntu-bashrc-java-home-and-path](/assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107131733079.png)
 
 Die erfolgreiche Einrichtung im Terminal überprüfen:
 
-![image-ubuntu-terminal-test-java-home-andpath](../assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107131511013.png)
+![image-ubuntu-terminal-test-java-home-andpath](/assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107131511013.png)
 
 ___
 
@@ -66,17 +66,17 @@ ___
 
 In VSCode nach der Installation des JDK das Fenster neu laden (Schaltfläche: "Reload Window"). Das installierte JDK unter dem Reiter "Installed JDK's" angezeigt.
 
-![image-vscode-java-installed-jdk](../assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107132543156.png)
+![image-vscode-java-installed-jdk](/assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107132543156.png)
 
 Nun kann man bereits  ein erstes Java-Projekt anlegen und ausprobieren oder mit dem Assistenten fortfahren. 
 
-![image-vscode-java-assistent-step2](../assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107134925973.png)
+![image-vscode-java-assistent-step2](/assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107134925973.png)
 
 Hier werden zusätzliche empfohlene Erweiterungen vorgeschlagen.
 
 Die folgenden Punkte führen dann Schritt für Schritt zum ersten Java-Projekt:
 
-![image-vscode-java-assistent-steps](../assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107135224592.png)
+![image-vscode-java-assistent-steps](/assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107135224592.png)
 
 
 
