@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Java lernen mit Visual Studio Code unter Ubuntu 21.10
-"
+title: "Java lernen mit Visual Studio Code unter Ubuntu 21.10"
 author: Henriette Baum
 ---
 Erklärt werden die nachstehenden Einrichtungsschritte:
@@ -20,7 +19,7 @@ Unter Ubuntu steht VSCode als Snap-Paket zur Verfügung. Es kann einfach über d
 
 
 
-![image-vscode-java-get-started](../assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107115646541.png)
+![image-vscode-java-get-started](/assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107115646541.png)
 
 Nach der Installation der Erweiterung öffnet sich ein neuer Einrichtungsassistent für Java, über den man einen Überblick über die bereits installierten Java- Versionen (installed JDK's) erhält oder einen Downloadlink (Install A JDK) wählen kann.
 
