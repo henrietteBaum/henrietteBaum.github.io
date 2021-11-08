@@ -1,11 +1,18 @@
-# Java lernen mit Visual Studio Code unter Ubuntu 21.10
+---
+layout: post
+title: "Java lernen mit Visual Studio Code unter Ubuntu 21.10
+"
+author: Henriette Baum
+---
+Erklärt werden die nachstehenden Einrichtungsschritte:
 
 1. Visual Studio Code über die Softwareverwaltung installieren.
 2. Extension- Pack installieren
 3. Java- Umgebung einrichten
 4. Ein Java Projekt erstellen
 
-
+## Visual Studio Code installieren
+Unter Ubuntu steht VSCode als Snap-Paket zur Verfügung. Es kann einfach über die Softwareverwaltung installiert werden. 
 
 ## Extension- Pack für Java installieren: 
 
