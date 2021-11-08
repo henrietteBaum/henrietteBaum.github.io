@@ -94,7 +94,7 @@ Die folgenden Punkte führen dann Schritt für Schritt zum ersten Java-Projekt:
 
 
 
-![image-vscode-java-project-structure-and-hello-world-programm](../assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211108023443340.png)
+![image-vscode-java-project-structure-and-hello-world-programm](/assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211108023443340.png)
 
 Im Ordner `src` befindet sich bereits eine java- Datei mit dem Namen "App.java". Die kann man direkt ausführen über die kleine dreieckige Schaltfläche oben rechts, über das Menü oder durch Anklicken des Schriftzuges "Run" innerhalb der Datei im Editor.
 
