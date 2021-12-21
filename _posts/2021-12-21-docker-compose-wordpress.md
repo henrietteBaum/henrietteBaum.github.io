@@ -65,7 +65,7 @@ Dies führt `docker-compose up` im detached mode aus, holt die benötigten Docke
 
 Dabei bedeutet **detached mode**, der Docker Container wird im Hintergrund ausgeführt. Es werden dabei keine Ausgaben angezeigt und das Terminal steht für andere Befehle zur Verfügung.
 
-![image-ubuntu-terminal, start docker-compose](../assets/images/docker-compose-wordpress/image-20211115025739348.png)
+![image-ubuntu-terminal, start docker-compose](/assets/images/docker-compose-wordpress/image-20211115025739348.png)
 
 Der Vorgang kann eine Weile dauern, je nach Rechner und Internetgeschwindigkeit.
 
@@ -81,7 +81,7 @@ Aufruf in der Adresszeile des Browsers:
 
 
 
-![image: wordpress-setup in browser](../assets/images/docker-compose-wordpress/image-20211115030454190.png)
+![image: wordpress-setup in browser](/assets/images/docker-compose-wordpress/image-20211115030454190.png)
 
 
 
