@@ -15,7 +15,7 @@ Erstellt wird eine Docker- compose- Datei für Wordpress mit der Datenbank MySQL
 5. Starten
 
 Punkt 1. und 2. werden in einem separaten Beitrag erklärt: 
-[Docker- Container unter Ubuntu 20.04](/2021-12-21-ubuntu-20-04-docker.md)
+[Docker- Container unter Ubuntu 20.04](https://github.com/henrietteBaum/henrietteBaum.github.io/blob/main/_posts/2021-12-21-ubuntu-20-04-docker.md)
 
 ## Die Docker- compose Datei:
 
