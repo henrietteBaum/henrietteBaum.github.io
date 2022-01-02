@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Foliate - Ebooks lesen unter Linux 35"
+title: "Foliate - Ebooks lesen unter Linux"
 author: Henriette Baum
 ---
 
