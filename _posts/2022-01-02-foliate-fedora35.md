@@ -5,7 +5,7 @@ author: Henriette Baum
 ---
 
 
-Foliate ist aktuell das einzige Programm unter Fedora, mit dem man Ebooks im epub- Format lesen kann und das auch die Möglichkeit bietet, den Text vorlesen zu lassen. Auch ist die Bedienoberfläche für den Bildschirmleser zugänglich, die Schaltflächen sind beschriftet.
+Foliate ist aktuell das einzige Programm unter Fedora und Ubuntu, mit dem man Ebooks im epub- Format lesen kann und das auch die Möglichkeit bietet, den Text vorlesen zu lassen. Auch ist die Bedienoberfläche für den Bildschirmleser zugänglich, die Schaltflächen sind beschriftet.
 
 Das Programm steht über die Gnome- Softwareverwaltung als Flatpack bzw. als Snap -Pack zur Verfügung.
 
@@ -56,7 +56,7 @@ Von hier aus können Bücher auf den PC herunterladen werden. Das Beispiel zeigt
 
 
 
-Alle Bücher die einmal hinzugefügt wurden, egal ob als Datei oder aus einem Katalog, findet man über die Ansicht **Bibliothek**. Dabei werden die Bücher nach dem jeweils letztn Zugriff sortiert,  das zuletzt gelesene Buch wird also an erster Stelle angezeigt. Die Darstellung lässt sich umschalten zwischen Cover- und Listenansicht.
+Alle Bücher, die einmal hinzugefügt wurden, egal ob als Datei oder aus einem Katalog, findet man über die Ansicht **Bibliothek**. Dabei werden die Bücher nach dem jeweils letzten Zugriff sortiert,  das zuletzt gelesene Buch wird also an erster Stelle angezeigt. Die Darstellung lässt sich umschalten zwischen Cover- und Listenansicht.
 
 ## Buchtext lesen
 
@@ -69,7 +69,7 @@ Für das Blättern im Buch stehen mehrere Wege zur Verfügung:
 
 Sehr nützlich ist die Funktion zum Vergrößern des Buchtextes mit der Tastenkombination `Strg` + `+` bzw. Verkleinern mit `Strg`+ `-` . 
 
-Markiert man einen Absatz im Text (durch Doppelklick) stehen weitere Optionen, wie u.a. Markieren für Anmerkungen, Nachschlagen und vor allem auch Vorlesen  zur Verfügung:
+Wählt man einen Absatz im Text aus, stehen weitere Optionen, wie u.a. Markieren für Anmerkungen, Nachschlagen und vor allem auch Vorlesen  zur Verfügung:
 
 ![image-foliate-kontext](/assets/images/foliate-fedora-35/image-20211230023520546.png)
 
@@ -145,7 +145,7 @@ Dort vergibt man zunächst einen neuen Namen für das Thema, z.B. `myNord` und k
 
 Nun ist der Text wieder gut sichtbar
 
-![image-foliate-theme-grovbox-dark-invertierte-darstellung](/assets/image-20220102121551765.png)
+![image-foliate-theme-grovbox-dark-invertierte-darstellung](/assets/images/foliate-fedora-35/image-20220102121551765.png)
 
  Hier mit dem Thema Nord und invertierter Darstellung:
 
@@ -155,7 +155,7 @@ Nun ist der Text wieder gut sichtbar
 
 ## Seitendarstellung
 
-Insbesondere wenn man die Textgräße stark erhöht, empfiehlt es sich, die Seitendarstellung auf `fortlaufend` umzustellen. Diese Option ermöglicht es, den Text jeweils um nur eine Zeile statt um eine Seite oder Seitenabschnitt weiter zu schieben. Das ist z.B. für Codebeispiele im Text sehr nützlich.
+Insbesondere wenn man die Textgräße stark erhöht, empfiehlt es sich, die Seitendarstellung auf `Fortlaufend` umzustellen. Diese Option ermöglicht es, den Text jeweils um nur eine Zeile statt um eine Seite oder Seitenabschnitt weiter zu schieben. Das ist z.B. für Codebeispiele im Text sehr nützlich.
 
  Foliate wechselt den Darstellungsmodus aber auch selbständig, wenn man einen bestimmten Zoomfaktor überschreitet.
 
