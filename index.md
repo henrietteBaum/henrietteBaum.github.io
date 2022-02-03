@@ -10,7 +10,7 @@ layout: home
 
 
 >
-> :mag_right: Wenn die Schrift zu klein und die Brille zu schwach werden.
+> :mag: Wenn die Schrift zu klein und die Brille zu schwach werden.
 >
 
 Es gibt verschiedene Möglichkeiten, eine Benutzeroberfläche für bessere Lesbarkeit einzurichten. Zunächst kann das **Betriebssystem** im Wege der Skalierung der gesamten Oberfläche, über die Änderung der Schriftgröße und im Bereich der Bedienungshilfen angepasst werden. Beispielhaft vorgestellt werden hier die Betriebssysteme 
