@@ -7,13 +7,10 @@
 #
 layout: home
 ---
-**!!! just under construction !!!**
-
-___
 
 
 >
->Wenn die Schrift zu klein und die Brille zu schwach werden.
+> :mag_right: Wenn die Schrift zu klein und die Brille zu schwach werden.
 >
 
 Es gibt verschiedene Möglichkeiten, eine Benutzeroberfläche für bessere Lesbarkeit einzurichten. Zunächst kann das **Betriebssystem** im Wege der Skalierung der gesamten Oberfläche, über die Änderung der Schriftgröße und im Bereich der Bedienungshilfen angepasst werden. Beispielhaft vorgestellt werden hier die Betriebssysteme 
@@ -25,11 +22,14 @@ Es gibt verschiedene Möglichkeiten, eine Benutzeroberfläche für bessere Lesba
 
 Zusätzlich lassen sich auch viele Anwendungen selbst zumindest teilweise in ihrem Erscheinungsbild verändern.  
 
-Besonders gut lässt sich die IDE **Visual Studio Code** anpassen. Sie kommt sehr gut mit unterschiedlichen Skalierungen des Betriebssystems zurecht und verfügt über zahlreiche Color-Themes, die Kontrast und Lesbarkeit verbessern. Farbstarke Icon-Themes erleichtern das Auffinden von Dateien im Explorer.
+Vorgestellt werden Programme und Workflows, die das Arbeiten am Computer erleichtern.
+
+So lässt sich zum Beispiel die IDE **Visual Studio Code** vorbildlich gut anpassen. Sie kommt problemlos mit unterschiedlichen Skalierungen des Betriebssystems zurecht  Benutzeroberfläche und Editorbereich lassen sich zusätzlich separat skalieren.
+Zudem verfügt sie über Color-Themes, die Kontrast und Lesbarkeit verbessern. Farbstarke Icon-Themes erleichtern das Auffinden von Dateien im Explorer.
 Unter Windows und MacOs unterstützt Visual Studio Code die Verwendung von Screenreadern bzw. VoiceOver.
 Eine aktive Community arbeitet ständig an Verbesserungen.
 
-Vorgestellt werden auch andere Programme, die das Arbeiten am Computer erleichtern.
+
 
 
 
