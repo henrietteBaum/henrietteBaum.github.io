@@ -40,6 +40,9 @@ Für die Formatierung des Codeblocks (Syntax-Highlighting) stehen zahlreiche Pro
 
 Die Bearbeitung selbst bietet den von VSCode gewohnten Komfort zum Vergrößern des Textes mit dem Mausrad bei gedrückter STRG-Taste oder die Bracket Pair Colorization innerhalb eines Code-Blocks. Für beides muss aber zunächst die entsprechebnde Option in den Einstellungen aktiviert sein. 
 
+
+![screenshot editor zoomed](/assets/images/vscode-md-notebook/code-block-zoomed.jpg)
+
 Zu beachten ist, dass sich bei einigen Color-Themes der Hintergrund des Blocks oder der Zelle nur wenig farblich vom Dokument-Hintergrund abhebt (z.B. GitHub-Dark-Default oder One Dark Pro). Ausprobiert habe ich hier beispielhaft "Tomorow Night Blue" und "Mariana Pro Cool", bei denen die Farbdarstellung gute Lesbarkeit bietet. Dafür helfen aber einige Themes mit einem blauen Focus um die aktive Zelle.
 
 
