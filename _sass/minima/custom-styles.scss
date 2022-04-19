@@ -28,6 +28,7 @@
     @include relative-font-size(1.25);
     padding: $spacing-unit 0;
     flex: 1 0 auto;
+    line-height: 1.5em;
   }
   
   .page-heading {
