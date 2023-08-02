@@ -7,21 +7,20 @@ author: Henriette Baum
 
 # Wordpress unter macOS ausprobieren mit XAMPP
 
-Mit XAMPP erhält man eine Kombination aus Apache-Server und SQL-Datenbank. Beides ist Voraussetzung für das Betreiben einer lokalen Wordpress-Instanz auf dem eigenen Rechner. 
+Mit XAMPP erhält man eine Kombination aus Apache-Web-Server und SQL-Datenbank. Beides ist Voraussetzung für das Betreiben einer lokalen Wordpress-Instanz auf dem eigenen Rechner. Die eignet sich gut, um neue Themen oder Plugins in Wordpress auszuprobieren und mit Einstellungen für Accessibility und bessere Lesbarkeit einer Webseite zu experimentieren.
 
-Auf der Webseite des Herstellers werden Installationsprogramme für Windows, macOS und Linus bereitgestellt.
+Auf der Webseite des Herstellers werden IXAMPP-nstallationsprogramme für Windows, macOS und Linus bereitgestellt.
 
-Nach dem Herunterladen wird der Installer mit Doppelklick gestartet. Hierfür muss die Installation eines fremden Programmes explizit in den Einstellungen unter Datenschutz und Sicherheit erlaubt werden.
-
-
-
-![xampp Kontrollzentrum](/assets/images/2023-08-02-wp-xampp-mac/xampp-controlcenter.png)
+Nach dem Herunterladen wird der Installer mit Doppelklick gestartet. Hierfür muss die Installation eines fremden Programmes explizit in den Mac-Einstellungen unter Datenschutz und Sicherheit erlaubt werden.
 
 Nach der Installation öffnet sich ein Kontrollzentrum, in dem man zunächst den Web-Server und die Datenbank startet.
 
-___
+![xampp Kontrollzentrum](/assets/images/2023-08-02-wp-xampp-mac/xampp-controlcenter.png)
 
-FAQ für macOS: https://www.apachefriends.org/de/faq_osx.html
+
+Für die jeweiligen Betriebssysteme findet  man eine Sammlung von FAQ's unter:
+
+(XAMPP FAQ macOS)[https://www.apachefriends.org/de/faq_osx.html]
 
 ___
 
@@ -53,7 +52,7 @@ auf, gelangt man zur Startseite der Installation.
 
 
 
-### Vorbereitung für diese Installation
+## Vorbereitung für diese Installation
 
 1. eine neue Datenbank anlegen, hier als Beispiel `wordpress1`,  der Name ist frei wählbar, muss dann aber auch so in allen anderen Bereichen eingesetzt werden.
 2. einen Benutzer für diese Datenbank anlegen und ein Passwort vergeben
@@ -68,7 +67,7 @@ Beides über phpmyadmin:
 
 
 
-### Wordpress Installation
+## Wordpress Installation
 
 Startet man nun die eigentliche Installation mit "Los geht's", werden Datenbankname, Benutzername und Passwort abgefragt. Server und Präfix sind schon mit localhost und wp_ vorgegeben und können so bleiben.
 
@@ -82,7 +81,7 @@ Nachdem die Datei angelegt wurde, kann man die Installation fortsetzen und dann 
 
 
 
-### Updates und neue Themen installieren
+## Updates und neue Themen installieren
 
 Um Aktualisierungen und neue Themen installieren zu können, muss Wordpress auf die erforderlichen Ordner zugreifen können. Konkret muss das Verzeichnis: 
 
@@ -113,7 +112,7 @@ Um auf Wordpress nach einem Neustart des Rechners zugreifen zu können, muss auc
 
 ## Fazit
 
-Um Wordpress auszuprobieren ist XAMPP sicherlich eine gute Wahl, weil man nicht selbst einen Web-Server und die erforderliche Datenbank aufsetzen muss. Alternativ hierzu bietet sich aber auch die Nutzung einer Komplettlösung von Bitnami: https://bitnami.com/stacks#wordpress ,  der Einsatz eines Docker-Containers  oder einer VM (Virtual Machine) an: https://bitnami.com/stack/wordpress/virtual-machine.
+Um in Wordpress neue Themen und Einstellungen auszuprobieren ist XAMPP sicherlich eine gute Wahl, weil man nicht selbst einen Web-Server und die erforderliche Datenbank aufsetzen muss. Alternativ hierzu bietet sich aber auch die Nutzung einer Komplettlösung von Bitnami: https://bitnami.com/stacks#wordpress ,  der Einsatz eines Docker-Containers  oder einer VM (Virtual Machine) an: https://bitnami.com/stack/wordpress/virtual-machine.
 
 
 
