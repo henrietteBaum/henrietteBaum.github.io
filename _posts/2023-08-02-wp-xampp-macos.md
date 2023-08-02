@@ -11,7 +11,7 @@ Mit XAMPP erhält man eine Kombination aus Apache-Web-Server und SQL-Datenbank. 
 
 Auf der Webseite des Herstellers werden XAMPP-Installationsprogramme für Windows, macOS und Linus bereitgestellt.
 
-(Apache-Friends)[https://www.apachefriends.org/de/index.html]
+[Apache-Friends](https://www.apachefriends.org/de/index.html)
 
 Nach dem Herunterladen wird der Installer mit Doppelklick gestartet. Hierfür muss die Installation eines fremden Programmes explizit in den Mac-Einstellungen unter Datenschutz und Sicherheit erlaubt werden.
 
@@ -22,7 +22,7 @@ Nach der Installation öffnet sich ein Kontrollzentrum, in dem man zunächst den
 
 Für die jeweiligen Betriebssysteme findet  man eine Sammlung von FAQ's unter:
 
-(XAMPP FAQ macOS)[https://www.apachefriends.org/de/faq_osx.html]
+[XAMPP FAQ macOS](https://www.apachefriends.org/de/faq_osx.html)
 
 ___
 
