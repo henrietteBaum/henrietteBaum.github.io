@@ -9,7 +9,9 @@ tags: Wordpress, macOS, XAMPP
 
 Mit XAMPP erhält man eine Kombination aus Apache-Web-Server und SQL-Datenbank. Beides ist Voraussetzung für das Betreiben einer lokalen Wordpress-Instanz auf dem eigenen Rechner. Die eignet sich gut, um neue Themen oder Plugins in Wordpress auszuprobieren und mit Einstellungen für Accessibility und bessere Lesbarkeit einer Webseite zu experimentieren.
 
-Auf der Webseite des Herstellers werden IXAMPP-nstallationsprogramme für Windows, macOS und Linus bereitgestellt.
+Auf der Webseite des Herstellers werden XAMPP-Installationsprogramme für Windows, macOS und Linus bereitgestellt.
+
+(Apache-Friends)[https://www.apachefriends.org/de/index.html]
 
 Nach dem Herunterladen wird der Installer mit Doppelklick gestartet. Hierfür muss die Installation eines fremden Programmes explizit in den Mac-Einstellungen unter Datenschutz und Sicherheit erlaubt werden.
 
