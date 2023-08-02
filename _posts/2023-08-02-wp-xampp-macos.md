@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Wordpress ausprobieren mit XAMPP unter macOS
+title: Wordpress unter macOS ausprobieren mit XAMPP 
 author: Henriette Baum
+tags: Wordpress, macOS, XAMPP
 ---
 
 
-# Wordpress unter macOS ausprobieren mit XAMPP
 
 Mit XAMPP erhält man eine Kombination aus Apache-Web-Server und SQL-Datenbank. Beides ist Voraussetzung für das Betreiben einer lokalen Wordpress-Instanz auf dem eigenen Rechner. Die eignet sich gut, um neue Themen oder Plugins in Wordpress auszuprobieren und mit Einstellungen für Accessibility und bessere Lesbarkeit einer Webseite zu experimentieren.
 
