@@ -106,7 +106,10 @@ Erhält man von Wordpress die Fehlermeldung, auf das upgrade-Verzeichnis könne 
 
 ## Neustart
 
-Um auf Wordpress nach einem Neustart des Rechners zugreifen zu können, muss auch XAMPP neu gestartet werden. Hierzu das Icon `manager-osx.app` im XAMM Programm-Verzeichnis anklicken. Funktioniert dies nicht, über das Kontextmenü zum Original navigieren und mit diesem starten:
+Um auf Wordpress nach einem Neustart des Rechners zugreifen zu können, muss auch XAMPP neu gestartet werden. Das App-Icon `manager-osx.app` für XAMPP erreicht man über das Launchpad oder über das Programm-Verzeichnis:
+
+![Alt text](/assets/images/2023-08-02-wp-xampp-mac/max-launchpad-xampp.png)
+
 
 ![XAMPP neu starten](/assets/images/2023-08-02-wp-xampp-mac/finder-program-manager-osx-app.png)
 
@@ -117,9 +120,13 @@ Um auf Wordpress nach einem Neustart des Rechners zugreifen zu können, muss auc
 Um in Wordpress neue Themen und Einstellungen auszuprobieren ist XAMPP sicherlich eine gute Wahl, weil man nicht selbst einen Web-Server und die erforderliche Datenbank aufsetzen muss. Alternativ hierzu bietet sich aber auch die Nutzung einer Komplettlösung von Bitnami: https://bitnami.com/stacks#wordpress ,  der Einsatz eines Docker-Containers  oder einer VM (Virtual Machine) an: https://bitnami.com/stack/wordpress/virtual-machine.
 
 
+### Weiterlesen:
 
+[Installation von XAMPP unter Windows bei hiese.online](https://www.heise.de/download/blog/Wordpress-mit-XAMPP-auf-dem-eigenen-Rechner-ausprobieren-3286703)
 
+[YouTube Beitrag von Aroma Meia für die Einrichtung unter  macOS](https://www.youtube.com/watch?v=M6vgABWvCGU)
 
+[YouTube Beitrag von Tom Media, Einrichtung unter macOS ](https://www.youtube.com/watch?v=UJ4YMxAFlz4&t=18s)
 ___
 
 
