@@ -75,7 +75,9 @@ Startet man nun die eigentliche Installation mit "Los geht's", werden Datenbankn
 
 Da die Installation an dieser Stelle keine Datei `wp-config` findet, erstellt die Installationsroutine den erforderlichen Inhalt, den man dann nur noch kopieren und als `wp-config.php`  im Wordpress-Verzeichnis, hier `wordpress1` speichern muss. 
 
-Alternativ könnte man die bereits vorhandene Beispieldatei `wp-sample-config.php` duplizieren und umbenennen und deren Inhalt entsprechend anpassen.
+![Secreenshot: während der Installation von Wordpress wird der Inhalt für die Datei wp-confi.php forgeschlagen](/assets/images/2023-08-02-wp-xampp-mac/wp-install-create-wpconfig.png)
+
+Alternativ könnte man die bereits vorhandene Beispieldatei `wp-config-sample.php` duplizieren und umbenennen und deren Inhalt entsprechend anpassen.
 
 Nachdem die Datei angelegt wurde, kann man die Installation fortsetzen und dann auch den Namen für die neue Website festlegen. Nach Abschluss wird man automatisch zur Anmeldung weitergeleitet.
 
@@ -84,6 +86,10 @@ Nachdem die Datei angelegt wurde, kann man die Installation fortsetzen und dann 
 
 
 ## Updates und neue Themen installieren
+
+Eine Fehlermeldung erhält man, wenn die Zugriffsrechte für die entsprechenden Speicherorte noch nicht angepasst sind:
+
+![Wordpress Fehlermeldung bei der Aktuelisierung](/assets/images/2023-08-02-wp-xampp-mac/wp-aktuallisierung-fehlermeldung.png)
 
 Um Aktualisierungen und neue Themen installieren zu können, muss Wordpress auf die erforderlichen Ordner zugreifen können. Konkret muss das Verzeichnis: 
 
