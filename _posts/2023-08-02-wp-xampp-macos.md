@@ -133,6 +133,8 @@ Um in Wordpress neue Themen und Einstellungen auszuprobieren ist XAMPP sicherlic
 [YouTube Beitrag von Aroma Meia für die Einrichtung unter  macOS](https://www.youtube.com/watch?v=M6vgABWvCGU)
 
 [YouTube Beitrag von Tom Media, Einrichtung unter macOS ](https://www.youtube.com/watch?v=UJ4YMxAFlz4&t=18s)
+
+
 ___
 
 
