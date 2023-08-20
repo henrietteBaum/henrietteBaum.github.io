@@ -32,15 +32,15 @@ ___
 
 
 
-Über den Reiter `phpmyadmin` erreicht man die SQL-Datenbank. 
+Über den Reiter `phpMyAdmin` erreicht man die SQL-Datenbank. 
 
-💡**Hinweis**: Um hier phpmyadmin starten zu können, muss zuvor der SQL-Server gestartet worden sein.
+💡**Hinweis**: Um hier phpMyAdmin starten zu können, muss zuvor der SQL-Server gestartet worden sein.
 
 
 
 ## Wordpress
 
-Herunterladen: https://de.wordpress.org und entpacken .
+Herunterladen: https://de.wordpress.org und entpacken.
 
 Anschließend den Wordpress-Ordner in das Verzeichnis `htdocs` von XAMPP kopieren.
 
@@ -59,7 +59,7 @@ auf, gelangt man zur Startseite der Installation.
 1. eine neue Datenbank anlegen, hier als Beispiel `wordpress1`,  der Name ist frei wählbar, muss dann aber auch so in allen anderen Bereichen eingesetzt werden.
 2. einen Benutzer für diese Datenbank anlegen und ein Passwort vergeben
 
-Beides über phpmyadmin:
+Beides über phpMyAdmin:
 
 ![phpmyadmin: neue Datenbank anlegen](/assets/images/2023-08-02-wp-xampp-mac/sql-create-new-db.png)
 
@@ -98,7 +98,7 @@ Um Aktualisierungen und neue Themen installieren zu können, muss Wordpress auf 
 mit entsprechenden Benutzerrechten versehen werden[^1]. 
 
 
-Ohne Terminal erreicht man die Einstellung für die Zugriffsrecht unter macOS mit einem Rechtsklick auf den Ordner > Informationen > Teilen & Zugriffsrechte. Nach dem Entsperren über das Schlosssymbol die Rechte für "everyone" auf "Lesen und Schreiben" setzen.
+Ohne Terminal erreicht man die Einstellung für die Zugriffsrechte unter macOS mit einem Rechtsklick auf den Ordner > Informationen > Teilen & Zugriffsrechte. Nach dem Entsperren über das Schlosssymbol die Rechte für "everyone" auf "Lesen und Schreiben" setzen.
 
 <center><img src="/assets/images/2023-08-02-wp-xampp-mac/finder-informatio-zugriffsrechte.png" alt="macOS Ordner- Zugriffsrechte" style="zoom: 33%;"/></center>
 
