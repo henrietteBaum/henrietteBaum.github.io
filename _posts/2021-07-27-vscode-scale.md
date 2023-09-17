@@ -5,9 +5,9 @@ title: Visual Studio Code skalieren
 
 Wenn die Schrift des Editors und des Terminals zu klein sind, Menü und Seitenleiste schlecht zu lesen sind:
 
-Visual Studio Code lässt sich vielfältig an die Bedürfnisse des Benutzers anpassen. Auch kommt die IDE mit allen Auflösungs- oder Skalierungs- Einstellungen des Systems gut zurecht.  Bei Eclipse oder NetBeans,  kann es vorkommen, das Schaltflächen nicht zu sehen oder gar nicht erreichbar sind, wenn man für sein Betriebssystem einen höheren Skalierungsfaktor  oder / und größere Schriftarten gewählt hat.
+Visual Studio Code lässt sich vielfältig an die Bedürfnisse des Benutzers anpassen. Auch kommt die IDE mit allen Auflösungs- oder Skalierungs- Einstellungen des Betriebssystems gut zurecht.  Bei Eclipse oder NetBeans,  kann es vorkommen, das Schaltflächen nicht zu sehen oder gar nicht erreichbar sind, wenn man für sein Betriebssystem einen höheren Skalierungsfaktor  oder / und größere Schriftarten gewählt hat.
 
-Unter Windows und MacOS funktioniert auch die Unterstützung durch einen **Screenreader** schon ganz gut.
+Unter Windows und macOS funktioniert auch die Unterstützung durch einen **Screenreader** schon recht gut.
 
 ## Programmoberfläche
 
@@ -19,7 +19,7 @@ Die gesamte Oberfläche der IDE zoomen funktioniert schnell mit der Tastenkombin
 
 Um den Text im Editor allein vergrößern zu können, muss zunächst in den Einstellungen die Option Mouse-Wheel-Zoom aktiviert werden. Bei gedrückter Strg- Taste kann dann mit dem Mausrad oder dem Touchpad vergrößert oder verkleinert werden. Die nützliche Funktion ist standardmäßig deaktiviert
 
-Unter dem Menüpunkt Settings (über das Zahnradsymbol unten links zu erreichen) findet man mit der Eingabe von zoom im Suchfeld schnell die entsprechenden Einstellungen. 
+Unter dem Menüpunkt Settings (über das Zahnradsymbol unten links zu erreichen) findet man mit der Eingabe von "zoom" im Suchfeld schnell die entsprechenden Einstellungen. 
 
 ![image: VS Code Settings for mouse-wheel-zoom](/assets/images/VSCode-scale-img/vscode-scale_0.png)
 
@@ -38,11 +38,11 @@ Hier kann man aber auch für fast alle anderen Bereiche  die **Schriftgrößen**
 
 ## Farbschema
 
-Ein sehr gut lesbares Thema ist Monokai-Sharp-Theme. Mit kräftigen Farben, die sich gut vom nicht zu dunklen Hintergrund abheben.
+Ein sehr gut lesbares Thema ist Monokai-Sharp-Theme. Mit kräftigen Farben, die sich gut vom dunklen Hintergrund abheben.
 
 ![image: VS Code install theme](/assets/images/VSCode-scale-img/vscode-scale_2.png)
 
-Ein High-Contrast Theme hat VS Code bereits vorinstalliert, hier werden alle bereiche zusätzlich mit Linien getrennt.
+Ein High-Contrast Theme hat VS Code bereits vorinstalliert, hier werden alle bereiche  mit Linien voneinander getrennt. Die aktuelle Zeile wird hervorgehoben.
 
 ![image: VS Code high-contrast-theme](/assets/images/VSCode-scale-img/vscode-scale_3.png)
 
