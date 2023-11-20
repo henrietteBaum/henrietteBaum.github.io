@@ -10,29 +10,19 @@ layout: home
 
 
 
-***Wenn die Schrift zu klein und die Brille zu schwach werden.***
+***When the font becomes too small and the glasses too weak.***
 
 ___
 
-Es gibt verschiedene Möglichkeiten, eine Benutzeroberfläche für bessere Lesbarkeit einzurichten. Zunächst kann das **Betriebssystem** im Wege der Skalierung der gesamten Oberfläche, über die Änderung der Schriftgröße und im Bereich der Bedienungshilfen angepasst werden. Beispielhaft vorgestellt werden hier die Betriebssysteme 
+This website is intended to provide assistance in setting up and using a computer or notebook. We want to give tips on how the operating system or individual programs can be configured for better readability and thus for greater user-friendliness.
+ 
+Please note, the website with the current articles has moved to
 
-    - Fedora
-    - MacOs
-    - Ubuntu
-    - Windows
+    https://zoom-in.info
 
-Zusätzlich lassen sich auch viele Anwendungen selbst zumindest teilweise in ihrem Erscheinungsbild verändern.  
+You will learn how to set up Linux, macOS and Windows and how to improve readability with the system settings and accessibility features of the operating system, as well as how to get support using screenreader or VoiceOver.
 
-Vorgestellt werden Programme und Workflows, die das Arbeiten am Computer erleichtern.
-
-So lässt sich zum Beispiel die IDE **Visual Studio Code** vorbildlich gut anpassen. Sie kommt problemlos mit unterschiedlichen Skalierungen des Betriebssystems zurecht  Benutzeroberfläche und Editorbereich lassen sich zusätzlich separat skalieren.
-Zudem verfügt sie über Color-Themes, die Kontrast und Lesbarkeit verbessern. Farbstarke Icon-Themes erleichtern das Auffinden von Dateien im Explorer.
-Unter Windows und MacOs unterstützt Visual Studio Code die Verwendung von Screenreadern bzw. VoiceOver.
-Eine aktive Community arbeitet ständig an Verbesserungen.
-
-
-
-
+The articles are published in German language.
 
 ___
 
