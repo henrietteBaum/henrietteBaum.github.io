@@ -1,16 +1,18 @@
 # henrietteBaum.github.io
 
 
-Es gibt verschiedene Möglichkeiten, eine Benutzeroberflächen für bessere Lesbarkeit einzurichten. Zunächst kann das **Betriebssystem** im Wege der Skalierung der gesamten Oberfläche, über die Änderung der Schriftgröße und im Bereich der Bedienungshilfen angepasst werden. Beispielhaft vorgestellt werden hier die Betriebssysteme 
+This website is intended to provide assistance in setting up and using a computer or notebook. We want to give tips on how the operating system or individual programs can be configured for better readability and thus for greater user-friendliness. 
 
     - Fedora
-    - MacOs
+    - macOs
     - Ubuntu
     - Windows
 
-Zusätzlich lassen sich auch viele Anwendungen selbst zumindest teilweise in ihrem Erscheinungsbild verändern.  
+Please note, the website with the current articles has moved to
 
-Besonders gut lässt sich die IDE **Visual Studio Code** anpassen. Sie kommt sehr gut mit unterschiedlichen Skalierungen des Betriebssystems zurecht und verfügt über zahlreiche Color-Themes, die Kontrast und Lesbarkeit verbessern. Farbstarke Icon-Themes erleichtern das Auffinden von Dateien im Explorer. Unter Windows und MacOs unterstützt Visual Studio Code die Verwendung von Screenreadern bzw. VoiceOver.
+    https://zoom-in.info
 
-Aber auch andere Programme helfen bei der Arbeit am Computer, wenn sie über eine gut lesbare und anpassbare Benutzeroberfläche verfügen und für einen Screenreader zugänglich sind.
+You will learn how to set up Linux, macOS and Windows and how to improve readability with the system settings and accessibility features of the operating system, as well as how to get support using screenreader or VoiceOver.
+
+The articles are published in German language.
 ___
