@@ -21,11 +21,11 @@ Unter Ubuntu steht VSCode als Snap-Paket zur Verfügung. Es kann einfach über d
 
 ![image-vscode-java-get-started](/assets/images/2021-11-07-ubuntu2110-vscode-java/image-20211107115646541.png)
 
-Nach der Installation der Erweiterung öffnet sich ein neuer Einrichtungsassistent für Java, über den man einen Überblick über die bereits installierten Java- Versionen (installed JDK's) erhält oder einen Downloadlink (Install A JDK) wählen kann.
+Nach der Installation der Erweiterung öffnet sich ein neuer Einrichtungsassistent für Java, über den man einen Überblick über die bereits installierten Java- Versionen (installed JDK's) erhält oder einen Downloadlink (Install a JDK) wählen kann.
 
 ## Java einrichten
 
-Um Java- Programme erstellen zu können, benötigt man ein Java Development Kit, kurz JDK. Angeboten wird es zum Download von [Oracle](https://www.oracle.com/java/technologies/downloads/) oder als Opesnsource- Version [openJDK](https://openjdk.java.net) .
+Um Java- Programme erstellen zu können, benötigt man ein Java Development Kit, kurz JDK. Angeboten wird es zum Download von [Oracle](https://www.oracle.com/java/technologies/downloads/) oder als Opennsource- Version [openJDK](https://openjdk.java.net) .
 
  Statt des Downloads ist unter Linux der einfachere Weg die Installation eines openJDK über die Paketquellen. Die von der Ubuntu- Wiki [wiki-ubuntuusers](https://wiki.ubuntuusers.de/Java/Installation/OpenJDK/) empfohlenen Pakete installiert man über das Terminal:
 
