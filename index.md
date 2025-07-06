@@ -8,20 +8,28 @@
 layout: home
 ---
 
+Welcome!  
+This website offers support for setting up and using a computer or notebook — with a special focus on improving readability and usability.
 
+You’ll find practical tips for configuring operating systems and software to enhance accessibility, especially for users with visual impairments.
 
+---
 
-This website is intended to provide assistance in setting up and using a computer or notebook. We want to give tips on how the operating system or individual programs can be configured for better readability and thus for greater user-friendliness.
- 
-Please note, the website with the current articles has moved to
+❗️ **The content has moved**  ❗️
 
-    https://computer-und-sehen.de
+For up-to-date articles, please visit:
 
-You will learn how to set up Linux, macOS and Windows and how to improve readability with system settings and accessibility features of the operating system, as well as how to get support using screenreader or VoiceOver.
+[computer-und-sehen.de](https://computer-und-sehen.de)
 
-The articles are published in German language.
+---
 
+We cover topics such as:
 
+- Accessibility settings in **Linux**, **macOS**, and **Windows**
+- Improving screen readability through contrast and font adjustments
+- Using assistive technologies like **screen readers** and **VoiceOver**
+
+> _Please note: All content is published in **German**._
 
 
 
